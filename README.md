@@ -2,7 +2,15 @@
 
 Pytimer is a Python library for measuring the execution time of functions. 
 
-## Installation
+## Getting Started
+
+### Prerequisites
+
+- Python 3.7 or higher
+- pip 22.0 or higher
+- Git must be installed and accessible in your system PATH
+
+### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pytimer.
 
