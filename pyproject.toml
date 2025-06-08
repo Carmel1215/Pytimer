@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pytimer"
+version = "0.1.0"
+description = "A simple Python timer library for measuring function execution time."
+authors = [
+    { name = "Carmel1215", email = "me@carmel1215.me" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
